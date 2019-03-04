@@ -30,6 +30,7 @@
 
     <modules>
         <module>panda-eureka</module>
+        <module>panda-config-server</module>
     </modules>
 
     <dependencyManagement>
